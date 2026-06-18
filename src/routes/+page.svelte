@@ -7,6 +7,8 @@
 	<meta property="og:image" content="/og-image.png" />
 
 	<link rel="icon" href="/favicon.png" />
+	<meta name="theme-color" content="#09090b" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 </svelte:head>
 
 <main
