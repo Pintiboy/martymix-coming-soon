@@ -33,6 +33,6 @@
 	<section class="flex flex-col items-center justify-center text-center">
 		<img src="/martymix-logo-farbe-small.png" alt="Martymix" class="mb-2 w-72 max-w-full" />
 
-		<img src="/coming-soon.png" alt="Coming soon" class="w-105 max-w-full drop-shadow-2xl" />
+		<img src="/coming-soon-small.png" alt="Coming soon" class="w-100 max-w-full drop-shadow-2xl" />
 	</section>
 </main>
